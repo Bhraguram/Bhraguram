@@ -8,4 +8,5 @@ Bhragram T M received M.Sc degree in Computer Science and Engineering (CSE) from
 
 *   🌍  I'm based in Kerala, India
 *   ✉️  You can contact me at [bhruguram@gmail.com](mailto:bhruguram@gmail.com)
-  
+*       ORCID carries all my Research oriented professional publication details. follow the link:   https://orcid.org/my-orcid?orcid=0000-0002-5637-3995
+*   
