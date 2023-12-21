@@ -1,4 +1,4 @@
-Hi 👋 My name is Bhraguram Thayyil Madhusudana Panicker
+Bhraguram Thayyil Madhusudana Panicker
 ========================================================
 
 Assistant Professor in Computer Science and Engineering
