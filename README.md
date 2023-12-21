@@ -8,5 +8,8 @@ Bhragram T M received M.Sc degree in Computer Science and Engineering (CSE) from
 
 *   🌍  I'm based in Kerala, India
 *   ✉️  You can contact me at [bhruguram@gmail.com](mailto:bhruguram@gmail.com)
-*       ORCID carries all my Research oriented professional publication details. follow the link:   https://orcid.org/my-orcid?orcid=0000-0002-5637-3995
-*   
+*   ORCID carries all my Research oriented professional publication details.
+    https://orcid.org/my-orcid?orcid=0000-0002-5637-3995
+*   My scopus ID represents : 54394925400
+*   Here you may find Web of Science Researcher ID: EOB-3458-2022
+*   Google scholar Link: https://scholar.google.com/citations?user=Q4ttwCsAAAAJ&hl=en
