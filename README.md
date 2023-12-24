@@ -1,4 +1,4 @@
-Bhraguram Thayyil Madhusudana Panicker
+Dr. Bhraguram Thayyil Madhusudana Panicker
 ========================================================
 
 Assistant Professor in Computer Science and Engineering
